@@ -78,7 +78,7 @@ pip install -r requirements.txt
 1. **克隆仓库**
 
    ```bash
-   git clone https://github.com/zhongjinwen/IBM_HR_Analytics_Chinese.git
+   git clone https://github.com/mypanda114/IBM_HR_Analytics_Chinese
    cd IBM_HR_Analytics_Chinese
    ```
 
