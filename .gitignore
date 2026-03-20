@@ -8,7 +8,12 @@ venv/
 .venv/
 env/
 
-# 输出目录（分析图表、报告等）
+# 输出目录（汉化生成的 Excel 文件等）
+output/*
+# 但允许上传 CSV 文件（用于 GitHub 预览）
+!output/*.csv
+
+# 分析输出目录（图表、报告等）
 analysis/output/
 
 # 编辑器文件
@@ -21,6 +26,6 @@ analysis/output/
 .DS_Store
 Thumbs.db
 
-# 其他
+# 日志与备份
 *.log
 *.bak
