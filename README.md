@@ -1,8 +1,11 @@
 # IBM HR Analytics 员工流失数据集（汉化版 v5.1）
 
+[![Status](https://img.shields.io/badge/status-archived-lightgrey.svg)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/pandas-2.2+-green.svg)](https://pandas.pydata.org/)
+
+> ⚠️ **项目状态**：此项目已完成，不再维护，已归档。内容仅供学习参考，请勿用于生产环境。
 
 ---
 
