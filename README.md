@@ -1,4 +1,4 @@
-# IBM HR Analytics 员工流失数据集（汉化版 v5.1）
+# IBM HR Analytics 员工流失数据集（学习项目）
 
 [![Status](https://img.shields.io/badge/status-archived-lightgrey.svg)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -234,12 +234,3 @@ pip install -r requirements.txt
 ---
 
 <p align="center"><a href="#目录">返回顶部</a></p>
-```
-
-### 主要修改点
-1. **版本更新为 v5.1**，并在简介中明确 Excel 文件不上传、CSV 文件已上传。
-2. **核心特性中增加 CSV 同步输出**。
-3. **快速开始中强调 CSV 文件已包含在仓库中**，并给出链接。
-4. **项目结构图更新**，用 ✅ 和 ❌ 标记文件是否上传。
-5. **数据预览表格和示例**保持不变，但提示完整数据可查看 CSV 文件。
-6. **版本历史中添加 v5.1 条目**。
